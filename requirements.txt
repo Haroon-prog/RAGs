@@ -9,6 +9,8 @@ python-dotenv
 
 # groq Integration
 langchain-groq
+# google integration
+langchain-google-genai
 
 
 # Hugging Face Integration 
@@ -24,6 +26,9 @@ langchain-text-splitters
 
 #vector store chroma
 langchain-chroma
+
+# tavily web search 
+langchain-tavily
 
 
 
