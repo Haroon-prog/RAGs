@@ -1,0 +1,21 @@
+self rag stands for self reflective rag 
+
+Where LLM actively judges its own retrieval ,evidence and answer instead of blindly trusting retrieved docs
+
+
+
+
+# 4 main question self RAG answers !
+Q1 : is retrival necessary for user's question or should be answered directly from llm ??
+
+Q2 : is Retrirved docs are relevant according to the user's question !???
+
+Q3: does the answer generated from the docs(context) is fully based on docs ? or did llm added anything extra !???
+is it fully , partially or not supported ?
+
+Q4: does response actually answer's the user question ??  
+
+if these 4 main question are answer by a RAG , then it is a self RAG 
+
+    
+
